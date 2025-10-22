@@ -25,19 +25,6 @@ With over 6 years of experience in customer operations and sales, I’m now tran
 | **Other Skills** | Data Cleaning, Trend Analysis, Performance Reporting |
 
 
-
-📈 Featured Projects  
-📊 [Retail Sales Performance Dashboard (Excel)](https://github.com/akshaykulal198/Retail_Sales_Performance_Dashboard)  
-➡️ Analyzed regional sales, profit margins, and top-performing categories using advanced Excel techniques.
-
-💬 [Customer Feedback Dashboard (Excel)](https://github.com/akshaykulal198/Customer_Feedback_Dashboard)  
-➡️ Identified satisfaction metrics and trends through visualization of survey data.
-
-👥 [Employee Performance Dashboard (Excel)](https://github.com/akshaykulal198/Employee_Performance_Dashboard)  
-➡️ Built an interactive dashboard tracking employee KPIs, department productivity, and attendance trends.
-
-
-
 🎓 Certifications  
   Data Analytics Certification – Skillovilla
 
